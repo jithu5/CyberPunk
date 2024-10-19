@@ -3,7 +3,7 @@
 ![Screenshot 2024-10-19 173341](https://github.com/user-attachments/assets/28c31e2c-70ed-4ae5-a8b7-699812ce7cd0)
 
 
-This is my first Three.js project, showcasing a 3D model with environment lighting to create a realistic experience. The project demonstrates how to implement environmental lighting, which affects the 3D model dynamically based on the surrounding light setup.
+This is my first Three.js project, showcasing a 3D model with environment lighting to create a realistic experience. The project demonstrates how to implement environmental lighting, which affects the 3D model dynamically based on the surrounding light setup. The project was built with the help of **Sheriyans Coding School**, focusing on 3D rendering and lighting techniques.
 
 ## Features
 
